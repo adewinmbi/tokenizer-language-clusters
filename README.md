@@ -36,6 +36,8 @@ See `results.json`.
 
 ## How to run
 
+Download the Universal Dependencies and unzip `ud-treebanks-vx.x.tgz` into `\data\universal_dependencies`.
+
 - Smoke test (English, French, German test split only): `python experiment.py --smoke`
 - Full experiment (23 languages): `python experiment.py`
 - With output saved to JSON: `python experiment.py --output results.json`
