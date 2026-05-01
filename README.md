@@ -2,8 +2,6 @@
 
 Do tokenizers store cross-lingual grammatical concept representations?
 
-Clusters of tokens in embedding space provide evidence towards: YES
-
 ```
 H1: Same-concept cross-language clusters are tighter than
     different-concept cross-language clusters.
